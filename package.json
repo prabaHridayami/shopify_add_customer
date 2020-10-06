@@ -15,11 +15,7 @@
         "express": "^4.17.1",
         "express-validator": "^6.6.1",
         "moment": "^2.29.0",
-        "node-fetch": "^2.6.1",
-        "nonce": "^1.0.4",
-        "serverless-http": "^2.6.0",
-        "shopify-node-api": "^1.11.1",
-        "shopify-token": "^4.0.0"
+        "node-fetch": "^2.6.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
